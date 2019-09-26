@@ -7,3 +7,12 @@ First line consists of a single integer, T, denoting the number of test cases. F
 
 # Output:
 For each test case, print the minimum time in which all array elements will become greater than or equal to K. Print a new line after each test case. 
+1<=T<=5 1<=T<=10^5 1<=A[i] k<=10^6
+
+# Sample Input:
+2
+3 4
+1 2 5 3 2 2 5 5
+
+# Sample output:
+3 0
