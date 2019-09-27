@@ -112,7 +112,7 @@ Print the minimum amount of time required to clear the traffic jam".
 
   1<=N, K<=100000. 
 
-<h3> Remove Friends </h3>
+<h3> 6.Remove Friends </h3>
 
  After getting her PhD, Christie has become a celebrity at her university, and her Facebook profile is full of friend requests. Being the nice girl, she is, Christie has accepted all the requests. 
 Now Kuldeep is jealous of all the attention she is getting from other guys, so he asks her to delete some of the guys from her friend list. 
@@ -124,11 +124,26 @@ delete i th friend DeleteFriend=true break if(DeleteFriend == false) delete the 
 <h3> Input Format</h3>
   First line contains T number of test cases. First line of each test case contains N, the number of friends Christie currently has and K ,the number of friends Christie decides to delete. Next lines contains popularity of her friends separated by space. 
 <h3> Output Format </h3>
-  For each test case print N-K numbers which represent popularity of Christie friend's after deleting K friends. 
-Constraints 1<=T<=1000 1<=N<=100000 0<=K< N 0<=popularity_of_friend<=100 
-7 
+ For each test case print N-K numbers which represent popularity of Christie friend's after deleting K friends. 
+<h3> Constraints </h3> 
+  1<=T<=1000 1<=N<=100000 0<=K< N 0<=popularity_of_friend<=100 
+
 NOTE: Order of friends after deleting exactly K friends should be maintained as given in input. 
 
+<h3> SAMPLE INPUT </h3>
 
+3
+3 1
+3 100 1
+5 2
+19 12 3 4 17
+5 3
+23 45 11 77 18
+
+<h3> SAMPLE OUTPUT </h3>
+
+100 1 
+19 12 17 
+77 18 
 
 </html>
