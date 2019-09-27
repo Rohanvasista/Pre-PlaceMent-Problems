@@ -83,4 +83,17 @@ N - Number of records followed by N numbers- order of records.
   Print "Happy" if the playlist has songs from 1 to N in order else "Sad". 
 Constraints 1<=N<=10^5 The array consists of 1-N distinct numbers. 
 
+<h5> SAMPLE INPUT </h5>
+
+5
+1 2 4 3 5
+
+
+<h5> SAMPLE OUTPUT </h5>
+
+Happy
+
+
+
+
 </html>
