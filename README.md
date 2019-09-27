@@ -130,7 +130,7 @@ delete i th friend DeleteFriend=true break if(DeleteFriend == false) delete the 
 
 NOTE: Order of friends after deleting exactly K friends should be maintained as given in input. 
 
-<h3> SAMPLE INPUT </h3>
+<h3> Sample input </h3>
 
 3
 3 1
@@ -140,7 +140,7 @@ NOTE: Order of friends after deleting exactly K friends should be maintained as 
 5 3
 23 45 11 77 18
 
-<h3> SAMPLE OUTPUT </h3>
+<h3> Sample output </h3>
 
 100 1 
 19 12 17 
