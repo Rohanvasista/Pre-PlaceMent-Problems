@@ -101,11 +101,16 @@ R------>Y------>G------->R
 Once Zolo gets into the system he can select any position i and update all elements between i to min(N, i + K - 1) by increasing their state by 1.This whole process takes 1 sec and he can repeat this process any no. of times until he gets all lights = G . Find the minimum time to do the process as Zolo is getting late for work.
 
 <h5> Input Format </h5>
+
   The first line contains N K The second line describes the current status of each bulb as an array whose each element can either be G or Y or R. 
   
 <h5> Output Format </h5>
+
 Print the minimum amount of time required to clear the traffic jam". 
-Constraints 1<=N, K<=100000. 
+
+<h5> Constraints </h5>
+
+  1<=N, K<=100000. 
 
 
 
