@@ -158,7 +158,7 @@ NOTE: Order of friends after deleting exactly K friends should be maintained as 
 
 <h3> 7.Largest cycle in a tree </h3>
 
-<h5> You are given a tree of N nodes and N-1 edges. Now you need to select two nodes a and b in the tree such that the cycle that will be formed after adding an edge between the two nodes a and b, its length should be maximum. If there are more than one possible answer, you can output any of them. </h5>
+ You are given a tree of N nodes and N-1 edges. Now you need to select two nodes a and b in the tree such that the cycle that will be formed after adding an edge between the two nodes a and b, its length should be maximum. If there are more than one possible answer, you can output any of them. 
 
 <h5> Input Format </h5>
 The first line contains an integer as N input. Next N-1 lines contain a pair of integers (a, b) that denote there is an edge between the two nodes a and b in the tree. 
