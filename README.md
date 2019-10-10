@@ -192,4 +192,11 @@ The first line will consist of 1 integer N, denoting the number of elements in t
 <h5> Output Format </h5>
 Print the height of the created Binary Search Tree. 
 
+<h5> Sample input </h5>
+4
+2 1 3 4
+
+<h5> Sample output </h5>
+3
+
 </html>
