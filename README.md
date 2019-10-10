@@ -218,4 +218,14 @@ Print the answer for each test case on a new line.
 1 <= t <= 20 
 1 <= n <= 1000 
 1 <= ai <= 100000000
+
+<h5> Sample input </h5>
+
+1
+9
+8 3 10 1 6 14 4 7 13
+
+
+<h5> Sample output </h5>
+4
 </html>
