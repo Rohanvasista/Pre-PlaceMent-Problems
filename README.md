@@ -166,7 +166,17 @@ The first line contains an integer as N input. Next N-1 lines contain a pair of 
 <h5> Output Format </h5>
 In the output, you need to print two integers separated by space which denote the nodes between which you can add the edge so as to maximize the length of the cycle in the tree. 
 
-<h5> Constraints </h5>
+<h5> Sample input </h5>
 
+7
+1 2
+1 3
+2 4
+2 5
+3 6
+3 7
+
+<h5> Sample output </h5>
+4 6
 
 </html>
