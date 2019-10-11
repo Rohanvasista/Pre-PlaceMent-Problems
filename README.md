@@ -251,16 +251,23 @@ on the ith day and the second integer denotes the number of "Ghost of the Day" t
 <h5> Sample input </h5>
 
 7 5
+
 1 3 1 3 2 2 2
 
 <h5> Sample output </h5>
 
 1 1
+
 3 1
+
 1 2
+
 3 2
+
 3 2
+
 3 2
+
 2 3
 
 
