@@ -5,7 +5,7 @@
     #include<queue>
     using namespace std;
      
-     //vector<pair<long long int, long long int> > v;
+     
      typedef map<long long int, long long int> mid;
      mid m;
      
@@ -27,7 +27,7 @@
             }
             p.push(make_pair(m[a],a));
             cout<<p.top().second<<" "<<p.top().first<<endl;
-            //make_heap(v.begin(),v.end());
+            
         }
         
     }
